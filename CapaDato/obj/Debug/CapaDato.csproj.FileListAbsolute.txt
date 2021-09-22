@@ -1,0 +1,6 @@
+C:\Users\elena\source\repos\ExamenDP\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\elena\source\repos\ExamenDP\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\elena\source\repos\ExamenDP\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\elena\source\repos\ExamenDP\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\elena\source\repos\ExamenDP\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\elena\source\repos\ExamenDP\CapaDato\obj\Debug\CapaDato.pdb

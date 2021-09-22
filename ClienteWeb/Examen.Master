@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Examen.master.cs" Inherits="ClienteWeb.Examen" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Pagina Maestra Para El Examen</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <div id="footer">
+                <span>contactame</span>
+                <span>go dotita</span>
+                <span>raaaaa</span>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
